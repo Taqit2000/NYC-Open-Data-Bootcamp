@@ -10,24 +10,24 @@ For example, if one entrance has many records of arrests occuring at it while th
 
 commands to run in terminal:
 
->> cd 'C:\Users\flame\documents\School\bootcamp code'
+> cd 'C:\Users\flame\documents\School\bootcamp code'
 
->> env\Scripts\activate
+> env\Scripts\activate
 
->> pip install waitress;
->> pip install numpy;
->> pip install pandas;
->> pip install requests;
->> pip install seaborn;
->> pip install tqdm;
->> pip install plotly;
->> pip install plotly.offline;
->> pip install plotly.graph_objs;
->> pip install dash;
->> pip install dash.dependencies;
->> pip install plotly.express;
+> pip install waitress;
+> pip install numpy;
+> pip install pandas;
+> pip install requests;
+> pip install seaborn;
+> pip install tqdm;
+> pip install plotly;
+> pip install plotly.offline;
+> pip install plotly.graph_objs;
+> pip install dash;
+> pip install dash.dependencies;
+> pip install plotly.express;
 
->> waitress-serve --listen=*:42420 nypd:server
+> waitress-serve --listen=*:42420 nypd:server
 
 
 Apache controls the about-us.html, while waitress controls the python webserver. (redirects to eachother)
