@@ -12,20 +12,34 @@ commands to run in terminal:
 
 > cd 'C:\Users\flame\documents\School\bootcamp code'
 
+
 > env\Scripts\activate
 
+
 > pip install waitress;
+
 > pip install numpy;
+
 > pip install pandas;
+
 > pip install requests;
+
 > pip install seaborn;
+
 > pip install tqdm;
+
 > pip install plotly;
+
 > pip install plotly.offline;
+
 > pip install plotly.graph_objs;
+
 > pip install dash;
+
 > pip install dash.dependencies;
+
 > pip install plotly.express;
+
 
 > waitress-serve --listen=*:42420 nypd:server
 
