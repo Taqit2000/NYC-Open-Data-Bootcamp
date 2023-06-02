@@ -11,7 +11,9 @@ For example, if one entrance has many records of arrests occuring at it while th
 commands to run in terminal:
 
 cd 'C:\Users\flame\documents\School\bootcamp code'
+
 env\Scripts\activate
+
 waitress-serve --listen=*:42420 nypd:server
 
 
